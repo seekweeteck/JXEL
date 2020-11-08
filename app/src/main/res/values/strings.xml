@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JXEL</string>
+    <string name="machine">Your Machine :</string>
+    <string name="vendor">Heaven n Earth</string>
+    <string name="vendorHealth">Your machine :  </string>
+    <string name="temp">Temperature : </string>
+    <string name="stock">ETS Instock :</string>
+    <string name="save">Save Data</string>
+</resources>
